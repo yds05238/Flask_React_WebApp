@@ -1,12 +1,9 @@
-## Decentralized Messenger App:
-* Decentralized messenger app with Python-Flask backend and React JS frontend built on "https://itnext.io/a-template-for-creating-a-full-stack-web-application-with-flask-npm-webpack-and-reactjs-be2294b111bd" and "https://www.ibm.com/developerworks/cloud/library/cl-develop-blockchain-app-in-python/index.html"
+## Flask React Web App:
+* Basic web app with python flask backend and react js frontend
 
 ## App contains:
 * Python-Flask backend
 * React JS frontend
-* Post messages
-* View all messages posted
-* Messages stored on blockchain
 
 ## Usage :
 ### Run project by :
