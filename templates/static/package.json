@@ -1,7 +1,7 @@
 {
   "name": "static",
   "version": "1.0.0",
-  "description": "\"A decentralized messenger app\"",
+  "description": "\"A basic web app\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,12 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "\"https://github.com/yds05238/Decentralized_Messenger_App/tree/master\""
+    "url": "\"https://github.com/yds05238/Flask_React_WebApp/tree/master\""
   },
   "keywords": [
-    "[\"messenger",
-    "app\"",
-    "\"react\"",
+    "["\"react\"",
     "\"flask\"",
     "\"python\"]"
   ],
